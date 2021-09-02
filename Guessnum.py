@@ -1,11 +1,11 @@
 import random
 
 maxn = 5
-
+# you can add any number of the maxn 
 n = random.randint(1, maxn)
 
 print('Welcome to guess the number game is done by L.RISHIWARDHAN')
-
+#you can add any name
 print('Guess the number from 1 to %d' % maxn)
 
 guess = ('6')
