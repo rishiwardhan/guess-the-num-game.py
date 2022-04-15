@@ -6,11 +6,11 @@ n = random.randint(1, maxn)
 
 print('Welcome to guess the number game is done by L.RISHIWARDHAN')
 #you can add any name
-print('Guess the number from 1 to %d' % maxn)
+print('Guess the number from 1 to 10' % maxn)
 
 guess = ('6')
 
-while guess != n:
+while guess 6= n:
 
     guess = int(input('new try: '))
 
