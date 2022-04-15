@@ -26,8 +26,6 @@ print('Congratulations, you won!')
 
 print('you did it')
 
-print ('if you did it in the first try you will be added in the master of guess the numer game ')
-
 print ('master of the game')
 
 print ('RISHIWARDHAN')
